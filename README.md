@@ -16,7 +16,7 @@ query optimization, and real BI use cases.
 - [x] Lesson 1 — CTEs and advanced query structuring
 - [x] Lesson 2 — Window functions
 - [x] Lesson 3 — Advanced aggregations
-- [] Lesson 4 — Advanced JOINs
+- [x] Lesson 4 — Advanced JOINs
 - [ ] Lesson 5 — Query optimization
 - [ ] Lesson 6 — BI use cases
 
