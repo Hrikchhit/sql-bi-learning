@@ -17,7 +17,7 @@ query optimization, and real BI use cases.
 - [x] Lesson 2 — Window functions
 - [x] Lesson 3 — Advanced aggregations
 - [x] Lesson 4 — Advanced JOINs
-- [ ] Lesson 5 — Query optimization
+- [x] Lesson 5 — Query optimization
 - [ ] Lesson 6 — BI use cases
 
 ### Phase 2 — Python
